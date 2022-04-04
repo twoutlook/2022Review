@@ -2,7 +2,8 @@
 
 ## 04/04
 ### Beginners ASP.NET Core Identity Tutorial
-- Code with Julian 2.13K subscribers
+- Code with Julian 
+- 2.13K subscribers
 - https://www.youtube.com/watch?v=5UfJeDcoC1k
 #### Review
 - NuGet CodeGeneration.Design

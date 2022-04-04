@@ -32,4 +32,6 @@
   ```
   - Developer PowerShell: for both API and DataAccess, dotnet restore
   - Package Managere Console: Update-Database
-- API|Dependencies|Projects|DataAccess 有 Microsoft.EntityFrameworkCore.SqlServer(6.0.1)
+  - API|Dependencies|Projects|DataAccess 有 Microsoft.EntityFrameworkCore.SqlServer(6.0.1)
+#### Troubeshot 結果
+- 將 EntityFrameworkCore.SqlServer 由 6.0.3 降到 6.0.1 居然可以了, 就是看到 API|Dependencies|Projects|DataAccess 有 Microsoft.EntityFrameworkCore.SqlServer(6.0.1)

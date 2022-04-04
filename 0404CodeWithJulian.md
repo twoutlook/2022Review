@@ -4,6 +4,7 @@
 
 - Part 1: API
   -  EFCore SqlServer 先用 6.0.1
+  -  因為使用 6.0.3 發現異常
 - Part 2: (Server)IdentityServer
 - Part 3: (Client)Blazor Server 
 - Part 4: Secure the Client app with IdentityServer4

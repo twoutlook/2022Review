@@ -1,6 +1,9 @@
 # Rainer Stropek 採用了幾乎最簡的方式來演示 C# Delegates
 - https://www.youtube.com/watch?v=nhJ63BnlP5I
 ## dnSpy , dn is dotnet
+- https://blog.darkthread.net/blog/dnspy/ 很好的範例
+- 在沒有 source 的情況下,
+- 在 原本只是台北高雄的array, 加一個台中進去
 
 
 

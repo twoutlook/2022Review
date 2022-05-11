@@ -23,6 +23,10 @@
 ## working with DataAnnotation and Partial, with specific Namespace as well
 -  Scaffold-DbContext "Server=MES-TEST\sqlexpress;Initial Catalog=ContosoPizza;Persist Security Info=False;User ID=sa;Password=Easy@2022;MultipleActiveResultSets=True;Encrypt=false;TrustServerCertificate=true;Connection Timeout=30" Microsoft.EntityFrameworkCore.SqlServer -ContextDir Data -OutputDir Models/Generated -ContextNamespace ContosoPizza.Data -Namespace ContosoPizza.Models
 
+
+## MES 
+- dotnet ef dbcontext scaffold "Server=192.168.150.241;Initial Catalog=HLMES;Persist Security Info=False;User ID=sa;Password=1qaz@WSX;MultipleActiveResultSets=True;Encrypt=false;TrustServerCertificate=true;Connection Timeout=30" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
 ## A Big BUG
 - ERROR: 自己引用自己
 
